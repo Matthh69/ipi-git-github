@@ -1,4 +1,4 @@
 Dupond
 Girard
-Faure
+faure
 Duport
